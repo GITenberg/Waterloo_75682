@@ -1,0 +1,38 @@
+_repo: Waterloo_75682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watson, Thomas E. (Thomas Edward)
+    aliases:
+    - Watson, Thomas Edward
+    - Watson, Tom
+    - Watson, Edward Thomas
+    - Watson, Thos. E.
+    birthdate: 1856
+    deathdate: 1922
+    gutenberg_agent_id: '48641'
+    url: http://www.gutenberg.org/2009/agents/48641
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_E._Watson
+description: ''
+gutenberg_issued: '2025-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75682'
+  lccn: 08028406
+language: en
+pgterms:marc904: https://archive.org/details/waterloo00wats
+pgterms:marc905: 20240620115732watson
+pgterms:marc906: '1908'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Neale Publishing Company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Waterloo, Battle of, Waterloo, Belgium, 1815'
+- !lcc 'DC'
+- GITenberg
+title: Waterloo
+url: http://www.gutenberg.org/ebooks/75682
